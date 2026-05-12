@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=EliteBuilders&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI-Powered%20Developer%20Challenge%20Platform&descAlignY=58&descSize=16" width="100%"/>
+
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+
+</div>
 # liteBuilders
 
 **Prove Your AI Skills Through Real MVPs**
@@ -58,7 +68,7 @@ liteBuilders is a builder-first competitive platform where individuals rapidly c
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vijaykrishna2334/EliteBuilders.git
 cd EliteBuilders
 npm install
 ```
@@ -309,4 +319,10 @@ For issues or questions:
 
 ---
 
-Built with ❤️ for the AI builder community
+## 📬 Contact
+
+**Built by [Vijay Krishna](https://github.com/Vijaykrishna2334)**
+- 📧 vijaykrishna2334@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/vijaykrishna2334)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
